@@ -1,5 +1,14 @@
+
+@font-face {
+    font-family:"airthan-age";
+    src: url(./img/Airthan-Age.ttf) format("ttf")
+}
+
 body{
     background-image : url(./img/wallpaper_mrmeeseeks.webp);
     background-size: cover;
-    
+    margin: 20px auto;
+    font-family:'airthan-age';
 }
+
+
